@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4E89BA72-48FF-73C3-5E11-D49E92F6BCC9}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MiniMiniProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
